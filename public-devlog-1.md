@@ -12,7 +12,7 @@ featured: true
 draft: false
 ---
 
-## Période : du 16 février 2025 au 22 février 2025
+## Période : du 16 février 2026 au 22 février 2026
 
 Bienvenue dans ce premier devlog public d’UnxWares.  
 Ce rendez-vous a pour objectif de partager de manière transparente l’évolution du projet, les améliorations apportées à notre infrastructure ainsi que les avancées techniques réalisées durant la semaine.
